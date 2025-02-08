@@ -5,7 +5,7 @@
 [![Black-and-Yellow-Web-Developer-Linked-In-Banner-4.png](https://i.postimg.cc/P5tDwG56/Black-and-Yellow-Web-Developer-Linked-In-Banner-4.png)](https://postimg.cc/svNxkNSS)
 
 ![](https://dcbadge.limes.pink/api/shield/698427942954598460)
-
+## Skills
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>&nbsp;
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>&nbsp;
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>&nbsp;
