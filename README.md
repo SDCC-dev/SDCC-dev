@@ -4,8 +4,18 @@
 
 
 [![Black-and-Yellow-Web-Developer-Linked-In-Banner-4.png](https://i.postimg.cc/P5tDwG56/Black-and-Yellow-Web-Developer-Linked-In-Banner-4.png)](https://postimg.cc/svNxkNSS)
+<p align="center">
+  <a href="https://discord.com/users/698427942954598460">
+    <img src="https://dcbadge.limes.pink/api/shield/698427942954598460" height="28">
+  </a>
+  <a href="https://www.linkedin.com/in/saúl-daniel-cotrina-cotrina-073a21179/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" height="28">
+  </a>
+</p>
 
-[![Discord](https://dcbadge.limes.pink/api/shield/698427942954598460)](https://discord.com/users/698427942954598460)
+
+
+
 
 ## 🖥️ Skills
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>&nbsp;
