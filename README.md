@@ -1,6 +1,7 @@
 <div align="center">
-# **Hola, soy @SDCC-dev** 👋
+<h1><strong>Hola, soy @SDCC-dev 👋</strong></h1>
 </div>
+
 
 [![Black-and-Yellow-Web-Developer-Linked-In-Banner-4.png](https://i.postimg.cc/P5tDwG56/Black-and-Yellow-Web-Developer-Linked-In-Banner-4.png)](https://postimg.cc/svNxkNSS)
 
