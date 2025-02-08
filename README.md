@@ -13,3 +13,6 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
 <!-- <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/> -->
+### 📊 Lenguajes más usados:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SDCC-dev&langs_count=8&theme=dark)
+
